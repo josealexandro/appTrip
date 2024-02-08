@@ -12,9 +12,9 @@ export default function App() {
         <TextInput 
         placeholder='Digite a cidade' 
         style={styles.input}/>
-
+        <Text>oiiiiiiiiiiiiiiiiiiii</Text>
         <Text style={styles.label}>Tempo de estadia: <Text style={styles.days}>10</Text> Dias</Text>
-
+        <Text>oiiiiiiiiiiiiiiiiiiii</Text>
         <Slider 
           
           minimumValue={1}
@@ -40,7 +40,8 @@ export default function App() {
             Roteiro Completo da viagem
             Roteiro Completo da viagem
             Roteiro Completo da viagem
-            Roteiro Completo da viagem
+            Roteiro Completo da 
+            roteiroviagem
             Roteiro Completo da viagem
             Roteiro Completo da viagem
             Roteiro Completo da viagem
